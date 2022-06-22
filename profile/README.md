@@ -8,7 +8,7 @@ API para Ecommerce, consumo em React e fornecimento de serviços REST em Spring 
 
 ## ✨ Objetivo:
 O projeto Terra da Gente visa melhorar a qualidade de vida e fornecer meios de subsistência para as famílias em situação de assentamento envolvidas, bem como incentivar o consumo de produtos e serviços dos pequenos empreendedores, agricultores rurais e urbanos em situação de vulnerabilidade.
-<br>
+<br><br>
 
 ## :rocket: Tecnologias:
 <br>
